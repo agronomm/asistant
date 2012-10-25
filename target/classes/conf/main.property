@@ -1,0 +1,11 @@
+version=0.0.6-dev
+voice.microphones=1
+voice.listeningPeriod=3
+system.name=СИСТЕМА
+microphoneDevice2=hw2,0
+microphoneDevice3=hw3,0
+recordStreams=3
+httpPort=16101
+httpHost=192.168.10.150
+httpUser=admin
+httpPassword=access
